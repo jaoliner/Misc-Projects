@@ -9,3 +9,6 @@ A comprehensive class project analyzing seasonal trends in over 150,000 animal i
 ### 2. SIG Financial Forecasting
 
 This notebook highlights financial forecasting material that I taught during my time as Director of Quantitative Analysis for the Sustainable Investment Group (SIG) at UCSD. While not all of the material could be preserved, this notebook is representative of the quality and themes of the content I developed and presented. It includes modules on GARCH and ARIMA modeling for volatility and returns forecasting, as well as Sharpe ratio and beta analysis for portfolio and risk evaluation. The workflows showcase forecasting methods, data manipulation, and teaching-oriented examples of applied finance. 
+
+*Example GARCH model*
+<img src="SIG-GARCH-forecast.png" alt="Example GARCH Model" width="500">
